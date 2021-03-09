@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-🔭 Currently doing internship at Deloitte <br>
+🔭 Currently doing internship at Deloitte-USI <br>
 🌱 Learning tech stacks related to cybersecurity and application development <br>
 👯 Looking to learn new things and improve myself as a professional <br>
 ⚡ Prefer books over talks <br>
