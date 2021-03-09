@@ -1,4 +1,4 @@
-### Hi there 👋
+### Bonjour ✨
 
 
 🔭 Currently doing internship at Deloitte-USI <br>
@@ -7,10 +7,9 @@
 ⚡ Prefer books over talks <br>
 
 
-</br> 
+<br/> 
 
-
-<!-- ### Languages and Tools:
+### Languages and Tools
 
 <img align="left" alt="Android" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" />
 <img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />
@@ -26,7 +25,7 @@
 <br>
  
  
- -->
+ 
 
  <!--
 **RubinaSapra/RubinaSapra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
