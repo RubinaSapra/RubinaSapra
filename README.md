@@ -1,7 +1,7 @@
 ### Bonjour ✨
 
 
-🔭 Currently doing internship at Deloitte-USI <br>
+🔭 L2 Cybersecurity Analyst at Accenture <br>
 🌱 Learning tech stacks related to cybersecurity and application development <br>
 👯 Looking to learn new things and improve myself as a professional <br>
 ⚡ Prefer books over talks <br>
